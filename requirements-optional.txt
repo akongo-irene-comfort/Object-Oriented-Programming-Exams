@@ -1,0 +1,9 @@
+# Optional Requirements
+# Install with: pip install -r requirements-optional.txt
+
+# Calendar date picker (recommended for better user experience)
+tkcalendar>=1.6.1
+
+# Visualization features
+matplotlib>=3.5.0
+

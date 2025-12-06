@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "amount": 5000000.0,
+      "date": "2025-12-06",
+      "category": "Income",
+      "description": "",
+      "type": "income"
+    },
+    {
+      "amount": -50000.0,
+      "date": "2025-11-01",
+      "category": "Food",
+      "description": "Road trip snack",
+      "type": "expense"
+    },
+    {
+      "amount": -12000.0,
+      "date": "2025-12-06",
+      "category": "Entertainment",
+      "description": "Paying for spotfy",
+      "type": "expense"
+    }
+  ],
+  "goals": [
+    {
+      "target": 500000.0,
+      "description": "mothly savings",
+      "current": 0
+    }
+  ]
+}

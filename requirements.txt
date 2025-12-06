@@ -1,0 +1,15 @@
+# Personal Finance Tracker - Requirements
+# ========================================
+# 
+# Python Version: 3.7 or higher is required
+#
+# Core Application:
+# All required dependencies (tkinter, json, datetime, os, typing) 
+# are part of Python's standard library - no installation needed!
+#
+# Recommended Dependencies:
+# tkcalendar>=1.6.1  # For calendar date picker (recommended for better UX)
+#
+# Optional Dependencies:
+# Uncomment the line below ONLY if you want to add chart/visualization features:
+# matplotlib>=3.5.0
