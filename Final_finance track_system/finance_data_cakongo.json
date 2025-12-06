@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "amount": 7000000.0,
+      "date": "2025-12-01",
+      "category": "Income",
+      "description": "Monthly Income",
+      "type": "income"
+    },
+    {
+      "amount": -4000000.0,
+      "date": "2025-12-02",
+      "category": "Other",
+      "description": "Exoense to village",
+      "type": "expense"
+    },
+    {
+      "amount": -800000.0,
+      "date": "2025-12-02",
+      "category": "Food",
+      "description": "Food expenses",
+      "type": "expense"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2025-12-03",
+      "category": "Other",
+      "description": "Other expenses",
+      "type": "expense"
+    }
+  ],
+  "goals": [
+    {
+      "target": 500000.0,
+      "description": "mothly savings",
+      "current": 0
+    }
+  ]
+}
